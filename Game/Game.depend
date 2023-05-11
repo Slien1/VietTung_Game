@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1680663208 source:c:\users\admin\onedrive\documents\gamee\board.cpp
+	"board.h"
+
+1680663208 c:\users\admin\onedrive\documents\gamee\board.h
+	<stdio.h>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<string>
+
+1680822126 source:c:\users\admin\onedrive\documents\gamee\cell.cpp
+	"cell.h"
+	"board.h"
+	<iostream>
+
+1680487110 c:\users\admin\onedrive\documents\gamee\cell.h
+	<SDL.h>
+	<SDL_image.h>
+
+1681645560 source:c:\users\admin\onedrive\documents\gamee\main.cpp
+	"cell.h"
+	"board.h"
+	"menu.h"
+	<iostream>
+	<vector>
+	<algorithm>
+
+1680663530 c:\users\admin\onedrive\documents\gamee\menu.h
+	<SDL.h>
+
+1680662962 source:c:\users\admin\onedrive\documents\gamee\menu.cpp
+	"board.h"
+	"menu.h"
+
